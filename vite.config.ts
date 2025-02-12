@@ -10,5 +10,5 @@ export default defineConfig({
     },
   },
   plugins: [react()],
-  base: "MFD.module1-Git-homework-calculator",
+  base: "/MFD.module1-Git-homework-calculator",
 });
